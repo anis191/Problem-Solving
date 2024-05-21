@@ -1,0 +1,6 @@
+number = int(input())
+total_work = int(input())
+per_hour = float(input())
+print("NUMBER =",number)
+salary_per_month = "{:.2f}".format(total_work*per_hour)
+print("SALARY = U$",salary_per_month)
