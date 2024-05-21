@@ -1,3 +1,4 @@
+# This problem is not solved!
 a=input()
 a_list = list(a)
 space_position=[]
