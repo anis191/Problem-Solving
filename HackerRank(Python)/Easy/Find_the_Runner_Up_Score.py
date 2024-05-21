@@ -1,15 +1,12 @@
-n = int(input())
-score = []
-for i in range(n):
-    x = input().split()
-    score.append(x)
-score.sort(reverse=True)
-k = 1
-for j in score:
-    if  j > score[k]:
-        print(score[k])
+n=int(input())
+List=[]
+all_number = input()
+number = all_number.split()
+for i in number:
+    List.append(int(i))
+List.sort(reverse=True)
+max = List[0]
+for i in range(1,len(List)):
+    if max > List[i]:
+        print(List[i])
         break
-    else:
-        j += 1
-        k += 1
-        continue
