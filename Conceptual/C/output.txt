@@ -1,0 +1,4 @@
+str inside function: Anisul Alam Hi You Are
+arr[0] is: 12
+arr[1] is: 22
+arr[2] is: 32
