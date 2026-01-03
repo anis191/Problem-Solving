@@ -1,2 +1,2 @@
-Anis: 2314 A
-Muhi: 3212 C
+Id: 2006
+Gpa: 3
