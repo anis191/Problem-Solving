@@ -1,3 +1,4 @@
-nur-90
-average: 82.6667
-highest: 90
+Max: 
+Kafi 7663 3.99
+Min: 
+Rafi 5414 1.49
