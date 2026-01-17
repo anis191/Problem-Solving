@@ -1,5 +1,7 @@
-Id: 21, rafi, 56
-Id: 24, nur, 59
-Id: 20, anis, 60
-Id: 23, karim, 88
-Id: 26, asif, 99
+a - 4
+n - 3
+s - 2
+i - 2
+b - 1
+t - 1
+h - 1
