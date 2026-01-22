@@ -1,0 +1,4 @@
+First element: 10
+Last element: 30
+Vector elements: 10 20 30 
+Size after pop: 2
