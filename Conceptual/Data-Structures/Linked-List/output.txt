@@ -1,5 +1,2 @@
-10
-20
-30
-40
-50
+Inside fun: 0x61fe14 - 10
+Inside main: 0
