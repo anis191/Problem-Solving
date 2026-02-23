@@ -13,6 +13,15 @@ class Node{
     }
 };
 
+int size_of_doubly_linked_list(Node *head){
+    int size = 0;
+    while(head != NULL){
+        head = head->next;
+        size++;
+    }
+    return size;
+}
+
 void print_normal(Node *head){
     Node *tmp = head;
     while(tmp != NULL){
@@ -32,6 +41,10 @@ void print_reverse(Node *tail){
 }
 
 void insert_at_position(Node *&head, int pos, int val){
+    if(pos >= size_of_doubly_linked_list(head)){
+        cout << "Invalid position" << endl;
+        return;
+    }
     Node *newNode = new Node(val);
     Node *tmp = head;
     for(int i = 1; i <= pos-1; i++){ //Index based position
@@ -44,6 +57,7 @@ void insert_at_position(Node *&head, int pos, int val){
 }
 
 int main(){
+    cout << endl;
     Node *head = new Node(10);
     Node *a = new Node(20);
     Node *b = new Node(30);
