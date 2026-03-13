@@ -32,4 +32,15 @@ int main(){
         cout << i << " ";
     }
     cout << endl;
+
+    myList3.reverse();
+    for(int i: myList3){
+        cout << i << " ";
+    }
+    cout << endl;
+
+    // Access elements from list:
+    cout << myList3.back() << endl;
+    cout << myList3.front() << endl;
+    cout << *next(myList3.begin(), 1) << endl;
 }
