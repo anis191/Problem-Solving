@@ -1,2 +1,1 @@
-Inside fun: 0x61fe14 - 10
-Inside main: 0
+Cycle detect! 
