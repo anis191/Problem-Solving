@@ -15,7 +15,8 @@
 
 ---
 
-## Q1: What is the difference between Block-level and Inline elements in HTML? {#q1}
+<a name="q1"></a>
+## Q1: What is the difference between Block-level and Inline elements in HTML?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -102,7 +103,8 @@ The main difference between Block-level and Inline elements in HTML is their lay
 
 ---
 
-## Q2: What are Semantic HTML elements, and why are they important? {#q2}
+<a name="q2"></a>
+## Q2: What are Semantic HTML elements, and why are they important?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -138,7 +140,8 @@ Semantic HTML elements are HTML tags that clearly describe the meaning and struc
 
 ---
 
-## Q3: What are HTML Entities, and when would you use them? {#q3}
+<a name="q3"></a>
+## Q3: What are HTML Entities, and when would you use them?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -207,7 +210,8 @@ They start with an ampersand (`&`) and end with a semicolon (`;`).
 
 ---
 
-## Q4: What is the purpose of the `<meta>` tag in the HTML `<head>` section, and what are some important attributes it can have? {#q4}
+<a name="q4"></a>
+## Q4: What is the purpose of the `<meta>` tag in the HTML `<head>` section, and what are some important attributes it can have?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -278,7 +282,8 @@ The `<meta>` tag is used in the `<head>` section of an HTML document to provide 
 
 ---
 
-## Q5: What are Void/Empty elements in HTML? Provide an example. {#q5}
+<a name="q5"></a>
+## Q5: What are Void/Empty elements in HTML? Provide an example.
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -330,7 +335,8 @@ Void or Empty elements are HTML elements that do not have a closing tag and cann
 
 ---
 
-## Q6: Explain the CSS Box Model. What are its components? {#q6}
+<a name="q6"></a>
+## Q6: Explain the CSS Box Model. What are its components?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -420,7 +426,8 @@ The CSS Box Model is a layout concept that describes how an HTML element takes u
 
 ---
 
-## Q7: What are the three ways to include CSS in an HTML document, and which one is generally preferred? {#q7}
+<a name="q7"></a>
+## Q7: What are the three ways to include CSS in an HTML document, and which one is generally preferred?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -491,7 +498,8 @@ There are three ways to include CSS in an HTML document: **Inline CSS, Internal 
 
 ---
 
-## Q8: Explain the difference between `id` and `class` selectors in CSS. {#q8}
+<a name="q8"></a>
+## Q8: Explain the difference between `id` and `class` selectors in CSS.
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -557,7 +565,8 @@ In CSS, `id` and `class` selectors are used to select HTML elements for styling.
 
 ---
 
-## Q9: What is CSS Specificity, and what is the general order of precedence when styles conflict? {#q9}
+<a name="q9"></a>
+## Q9: What is CSS Specificity, and what is the general order of precedence when styles conflict?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
@@ -638,7 +647,8 @@ CSS Specificity is a rule used by the browser to determine which CSS style shoul
 
 ---
 
-## Q10: What is the difference between `display: none;` and `visibility: hidden;` in CSS? {#q10}
+<a name="q10"></a>
+## Q10: What is the difference between `display: none;` and `visibility: hidden;` in CSS?
 
 ### সহজ বাংলায় ব্যাখ্যা
 
