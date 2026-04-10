@@ -1,1 +1,1 @@
-Cycle detect! 
+No cycle
